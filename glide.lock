@@ -1,0 +1,14 @@
+hash: 82e99b82ffe4e27e6afe7545c0f581f3cbfe74bd75b129e1ef19261653348d3c
+updated: 2016-08-09T11:35:06.56574326-05:00
+imports:
+- name: github.com/chzyer/readline
+  version: 62c6fe6193755f722b8b8788aa7357be55a50ff1
+- name: github.com/nats-io/nats
+  version: fc85f44c1659ab6610d76fd6bd0e44ad2cadf697
+  subpackages:
+  - encoders/builtin
+- name: github.com/nats-io/nuid
+  version: a5152d67cf63cbfb5d992a395458722a45194715
+- name: github.com/urfave/cli
+  version: 1efa31f08b9333f1bd4882d61f9d668a70cd902e
+testImports: []
