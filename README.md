@@ -9,9 +9,6 @@ A simple REPL console for interacting with a NATS (http://nats.io) server.
 USAGE:
    nats-repl [global options] command [command options] [arguments...]
 
-VERSION:
-   0.0.0
-
 COMMANDS:
      help, h  Shows a list of commands or help for one command
 
