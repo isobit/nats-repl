@@ -1,5 +1,5 @@
-hash: 82e99b82ffe4e27e6afe7545c0f581f3cbfe74bd75b129e1ef19261653348d3c
-updated: 2016-08-09T11:35:06.56574326-05:00
+hash: 14331297038153f2dacef017ddc22fec28156b6bef8c778c82f8302953929967
+updated: 2016-09-11T17:16:24.293891316-05:00
 imports:
 - name: github.com/chzyer/readline
   version: 62c6fe6193755f722b8b8788aa7357be55a50ff1
@@ -10,5 +10,5 @@ imports:
 - name: github.com/nats-io/nuid
   version: a5152d67cf63cbfb5d992a395458722a45194715
 - name: github.com/urfave/cli
-  version: 1efa31f08b9333f1bd4882d61f9d668a70cd902e
+  version: a14d7d367bc02b1f57d88de97926727f2d936387
 testImports: []
