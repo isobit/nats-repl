@@ -5,6 +5,7 @@ A simple REPL console for interacting with a NATS (http://nats.io) server.
 `go get github.com/joshglendenning/nats-repl`
 
 # Usage
+## CLI
 ```
 USAGE:
    nats-repl [global options] command [command options] [arguments...]
@@ -18,7 +19,12 @@ GLOBAL OPTIONS:
    --version, -v         print the version
 ```
 
-# Commands
+## Commands
 - `pub <subject> [data]`
 - `sub <subject>`
 - `req <subject> [data]`
+
+# Development
+This project uses [gopm](https://github.com/gpmgo/gopm) for dependency management and building.
+
+```GOOS=<os> GOARCH=<arch> gopm build```

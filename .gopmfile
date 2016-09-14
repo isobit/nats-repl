@@ -1,0 +1,4 @@
+[deps]
+github.com/chzyer/readline =
+github.com/nats-io/nats =
+github.com/urfave/cli =
