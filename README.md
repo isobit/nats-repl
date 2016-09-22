@@ -27,4 +27,8 @@ GLOBAL OPTIONS:
 # Development
 This project uses [gopm](https://github.com/gpmgo/gopm) for dependency management and building.
 
-```GOOS=<os> GOARCH=<arch> gopm build```
+```sh
+go get -u github.com/gpmgo/gopm
+gopm get
+GOOS=<os> GOARCH=<arch> gopm build
+```
