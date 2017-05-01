@@ -2,7 +2,7 @@
 A simple REPL console for interacting with a NATS (http://nats.io) server.
 
 # Installation
-`go get github.com/joshglendenning/nats-repl`
+`go get github.com/isobit/nats-repl`
 
 # Usage
 ## CLI
